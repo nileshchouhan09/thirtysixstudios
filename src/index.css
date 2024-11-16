@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: black;
+  overflow: hidden;
+  color: white ;
+}
+canvas{
+  pointer-events: none;
+}
+
+span.growing{
+  background-color: #FD2C2A;
+
+}
